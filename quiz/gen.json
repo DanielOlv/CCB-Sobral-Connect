@@ -1,1 +1,20 @@
-
+[
+    {
+        "question": "Quem criou os céus e a terra?",
+        "book": "Gênesis 1:1",
+        "options": "['Deus', 'Abraão', 'Noé', 'Adão']",
+        "difficulty": "Fácil"
+    },
+    {
+        "question": "Qual foi o primeiro homem criado por Deus?",
+        "book": "Gênesis 2:7",
+        "options": "['Adão', 'Abel', 'Sete', 'Caim']",
+        "difficulty": "Fácil"
+    },
+    {
+        "question": "Quantos anos viveu Matusalém, o homem com maior longevidade mencionado na Bíblia?",
+        "book": "Gênesis 5:27",
+        "options": "['969 anos', '900 anos', '950 anos', '930 anos']",
+        "difficulty": "Difícil"
+    }
+]
