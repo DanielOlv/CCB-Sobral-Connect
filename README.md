@@ -1,2 +1,2 @@
-# CCB-Sobral-Connet
-CCB Sobral Connet, projeto para conectar jovens cristãos
+# CCB-Sobral-Connect
+CCB Sobral Connect, projeto para conectar jovens cristãos
