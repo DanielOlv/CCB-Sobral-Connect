@@ -23,17 +23,17 @@
       {
         "name":"Ensaio Local",
         "frequency":"monthly-day",
-        "date":"2024-10-05 17:00:00.000",
+        "date":"2024-10-05 17:00:00.000"
       },
       {
         "name":"Reunião da Mocidade",
         "frequency":"unique",
-        "date":"2025-07-27 09:00:00.000",
+        "date":"2025-07-27 09:00:00.000"
       },
       {
         "name":"Ensaio Regional",
         "frequency":"unique",
-        "date":"2025-11-16 09:00:00.000",
+        "date":"2025-11-16 09:00:00.000"
       }
     ]
   },
