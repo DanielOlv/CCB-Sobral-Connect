@@ -56,7 +56,7 @@
       "dayOfWeek":4,
       "hour":"19:30"
     },
-    "events": "[
+    "events": [
       {
         "name":"Ensaio Local",
         "frequency":"monthly-day",
