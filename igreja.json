@@ -19,8 +19,23 @@
     "dayOfWeek":6,
       "hour":"19:30"
     },
-    "service3": null,
-    "events": "[{\"name\":\"Ensaio Local\",\"frequency\":\"monthly-day\",\"date\":\"2024-10-05 17:00:00.000\",\"city\":null,\"local\":null},{\"name\":\"Reunião da Mocidade\",\"frequency\":\"unique\",\"date\":\"2025-07-27 09:00:00.000\",\"city\":null,\"local\":null},{\"name\":\"Ensaio Regional\",\"frequency\":\"unique\",\"date\":\"2025-11-16 09:00:00.000\",\"city\":null,\"local\":null}]"
+    "events": [
+      {
+        "name":"Ensaio Local",
+        "frequency":"monthly-day",
+        "date":"2024-10-05 17:00:00.000",
+      },
+      {
+        "name":"Reunião da Mocidade",
+        "frequency":"unique",
+        "date":"2025-07-27 09:00:00.000",
+      },
+      {
+        "name":"Ensaio Regional",
+        "frequency":"unique",
+        "date":"2025-11-16 09:00:00.000",
+      }
+    ]
   },
   {
     "name": "Sinhá Sabóia",
