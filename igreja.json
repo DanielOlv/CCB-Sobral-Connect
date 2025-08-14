@@ -81,7 +81,7 @@
     },
     "service2": {
       "dayOfWeek":3,
-      "hour:"19:30"
+      "hour":"19:30"
     },
     "events": [
       {
