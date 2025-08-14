@@ -4,7 +4,32 @@
   "version": 0.011,
   "supportDate": "2025-07-12 17:00",
   "images" : {
-      "instaPerfil" : "https://scontent-for2-2.cdninstagram.com/v/t51.2885-19/95866178_186908619089916_7000871351896506368_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-for2-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHbN3jRh-Wz6izeJ5vPDtrH6SpxaCrXe4HUmbDKTaUhAC1gHSV7RpvL8cZ4swyI0h4pdjeae7RIlmbFhP1rVnXd&_nc_ohc=C3QqAtc_VVwQ7kNvwGJ7qEn&_nc_gid=NqGX3Wn0SS5eEGiPB2U6PQ&edm=AEYEu-QBAAAA&ccb=7-5&oh=00_AfWdOQvoe__pchOcG_LWsI4Lfe1Nzeiz0p2duiCuwhVF4w&oe=68A31331&_nc_sid=ead929"
+//  Type: img, video, cascata ou fixado
+      "instaPerfil" : "https://scontent-for2-2.cdninstagram.com/v/t51.2885-19/95866178_186908619089916_7000871351896506368_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-for2-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QHbN3jRh-Wz6izeJ5vPDtrH6SpxaCrXe4HUmbDKTaUhAC1gHSV7RpvL8cZ4swyI0h4pdjeae7RIlmbFhP1rVnXd&_nc_ohc=C3QqAtc_VVwQ7kNvwGJ7qEn&_nc_gid=NqGX3Wn0SS5eEGiPB2U6PQ&edm=AEYEu-QBAAAA&ccb=7-5&oh=00_AfWdOQvoe__pchOcG_LWsI4Lfe1Nzeiz0p2duiCuwhVF4w&oe=68A31331&_nc_sid=ead929",
+      "post1" : {
+        "URL":"https://www.instagram.com/p/DLff62MOOTs/?img_index=1",
+        "type" : ""
+      },
+      "post2" : {
+        "URL":"https://www.instagram.com/p/DKH3yxztu5i/?img_index=1",
+        "type" : "cascata"
+      },
+      "post3" : {  
+        "URL":"https://scontent-for2-2.cdninstagram.com/v/t51.82787-15/522716911_18065402777171481_2006263063744159495_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzY4MjA0ODc2NDA0NjE3OTA5NTE4MDY1NDAyNzcxMTcxNDgx.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjU0MHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=MYwk03qHjKwQ7kNvwGRDuXK&_nc_oc=AdmyfhI7CZApBSaf_4fEVtlMiqlnJmXuDbIM9E1G9KyHNrydUDLRrEVNXOioH7pbdmw0PeHpPBRx9T463tCQRe9F&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-2.cdninstagram.com&_nc_gid=ngm2GwNYyBBr-VvYXwaF3w&oh=00_AfVKDMbYbEIoPk1QtuP0mdpNORgNF-8hP_BgkcztPoo5mg&oe=68A40210",
+        "type" : "fixado"
+      },
+      "post4" : {
+        "URL":"https://scontent-for2-1.cdninstagram.com/v/t51.82787-15/524985257_18065962916171481_5112080103005700384_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=MzY4NjM5MTIxMTQwMTUwNjQxMg%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjU0MHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=P6hOuNobKjQQ7kNvwHQVmVw&_nc_oc=Adm4D3Z-y0KIwh3jwXVMwP8MeU0e8vj2Fil88efhktYP68z_hFMoOUpGMUQEJGu_vLuGwIQvEbK0B9vil1PMwB-E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-1.cdninstagram.com&_nc_gid=ngm2GwNYyBBr-VvYXwaF3w&oh=00_AfWyYu6Xyg1sEsFpnS_LmpUoWp96zb9z82xpF-hohy-BNg&oe=68A3E988",
+        "type" : "video"
+      },
+      "post5" : {
+        "URL":"https://scontent-for2-2.cdninstagram.com/v/t51.82787-15/523506845_18065857787171481_3503896199734170371_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=MzY4NTU5NjU5MzE1MjI1OTUwMjE4MDY1ODU3Nzg0MTcxNDgx.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjU0MHg5NjAuc2RyLkMzIn0%3D&_nc_ohc=GnViXIwzrAwQ7kNvwHEWw6S&_nc_oc=AdkTHAVL8LABRfA3pKtCTDV6xSoRB7nzqiXfDS9SwzOT8DcbDu0eYPKmh5hIvecFs-wS0p_dgcEfC5jnnH0h4xzQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-2.cdninstagram.com&_nc_gid=ngm2GwNYyBBr-VvYXwaF3w&oh=00_AfXhsPDPL0JIYiaL-ZG7eZKEVKY-8M65rEC5tbNWLWWBDw&oe=68A3EF76",
+        "type" : "video"
+      },
+      "post6" : {
+        "URL":"https://scontent-for2-1.cdninstagram.com/v/t51.71878-15/518215350_2730366540505666_3171571597542685740_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=MzY3NjAwNzA1MDgzMjc5NjcwMQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM4LnNkci5DMyJ9&_nc_ohc=TXKXCvTwN1AQ7kNvwELrCPH&_nc_oc=AdmKfywa9aIvr4EDBE1A16NoQzQvfGoe90z-spJaWC8Z0bjrP0yg8b0Y9PRHn0Furv1_My-KvY_db06qlxXSncnw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-for2-1.cdninstagram.com&_nc_gid=Qd3QDTcJXKXzVO8v1gWyQA&oh=00_AfUHjOnHfjVI_j5w1gpeYYRPeajudkxCjjQKZasf_rJIXQ&oe=68A3DA8B",
+        "type" : "video"
+      }
     }
   }
 ]
