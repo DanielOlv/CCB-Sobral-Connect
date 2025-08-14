@@ -1,14 +1,24 @@
 [
   {
+    "_comment" : "0 - Sunday, 1 - Monday, 2 - Tuesday, 3 - Wednesday, 4 - Thursday, 5 - Friday, 6 - Saturday",
     "name": "Padre Ibiapina - Central",
     "address": "Rua João XXIII, 36 - Sobral, CE, Brasil - 62020-555",
     "photoUrl": "assets/images/central_sobral.jpg",
     "latitude": -3.686362,
     "longitude": -40.368141,
     "updatedAt": "2024-06-14 00:00:00.000",
-    "rdj": "{\"dayOfWeek\":7,\"hour\":\"16:0\"}",
-    "service1": "{\"dayOfWeek\":2,\"hour\":\"19:30\"}",
-    "service2": "{\"dayOfWeek\":6,\"hour\":\"19:30\"}",
+    "rdj": {
+      "dayOfWeek":7,
+      "hour":"16:0"
+    },
+    "service1": {
+      "dayOfWeek":2,
+      "hour":"19:30"
+    },
+    "service2": {
+    "dayOfWeek":6,
+      "hour":"19:30"
+    },
     "service3": null,
     "events": "[{\"name\":\"Ensaio Local\",\"frequency\":\"monthly-day\",\"date\":\"2024-10-05 17:00:00.000\",\"city\":null,\"local\":null},{\"name\":\"Reunião da Mocidade\",\"frequency\":\"unique\",\"date\":\"2025-07-27 09:00:00.000\",\"city\":null,\"local\":null},{\"name\":\"Ensaio Regional\",\"frequency\":\"unique\",\"date\":\"2025-11-16 09:00:00.000\",\"city\":null,\"local\":null}]"
   },
