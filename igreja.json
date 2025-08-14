@@ -44,11 +44,25 @@
     "latitude": -3.707438,
     "longitude": -40.333813,
     "updatedAt": "2024-06-14 00:00:00.000",
-    "rdj": "{\"dayOfWeek\":7,\"hour\":\"9:30\"}",
-    "service1": "{\"dayOfWeek\":7,\"hour\":\"18:30\"}",
-    "service2": "{\"dayOfWeek\":4,\"hour\":\"19:30\"}",
-    "service3": null,
-    "events": "[{\"name\":\"Ensaio Local\",\"frequency\":\"monthly-day\",\"date\":\"2024-10-12 17:00:00.000\",\"city\":null,\"local\":null}]"
+    "rdj": {
+      "dayOfWeek":7,
+      "hour":"9:30"
+    },
+    "service1": {
+      "dayOfWeek":7,
+      "hour":"18:30"
+    },
+    "service2": {
+      "dayOfWeek":4,
+      "hour":"19:30"
+    },
+    "events": "[
+      {
+        "name":"Ensaio Local",
+        "frequency":"monthly-day",
+        "date":"2024-10-12 17:00:00.000"
+      }
+    ]
   },
   {
     "name": "Sumaré",
@@ -57,11 +71,25 @@
     "latitude": -3.701562,
     "longitude": -40.364312,
     "updatedAt": "2024-06-14 00:00:00.000",
-    "rdj": "{\"dayOfWeek\":7,\"hour\":\"9:30\"}",
-    "service1": "{\"dayOfWeek\":7,\"hour\":\"18:30\"}",
-    "service2": "{\"dayOfWeek\":3,\"hour\":\"19:30\"}",
-    "service3": null,
-    "events": "[{\"name\":\"Ensaio Local\",\"frequency\":\"monthly-day\",\"date\":\"2024-10-19 17:00:00.000\",\"city\":null,\"local\":null}]"
+    "rdj": {
+      "dayOfWeek":7,
+      "hour":"9:30"
+    },
+    "service1": {
+      "dayOfWeek":7,
+      "hour":"18:30"
+    },
+    "service2": {
+      "dayOfWeek":3,
+      "hour:"19:30"
+    },
+    "events": [
+      {
+        "name":"Ensaio Local",
+        "frequency":"monthly-day",
+        "date":"2024-10-19 17:00:00.000"
+        }
+    ]
   },
   {
     "name": "Terrenos Novos",
@@ -70,10 +98,24 @@
     "latitude": -3.674187,
     "longitude": -40.372687,
     "updatedAt": "2024-06-14 00:00:00.000",
-    "rdj": "{\"dayOfWeek\":7,\"hour\":\"9:30\"}",
-    "service1": "{\"dayOfWeek\":1,\"hour\":\"19:30\"}",
-    "service2": "{\"dayOfWeek\":5,\"hour\":\"19:30\"}",
-    "service3": null,
-    "events": "[{\"name\":\"Ensaio Local\",\"frequency\":\"monthly-day\",\"date\":\"2024-10-24 19:30:00.000\",\"city\":null,\"local\":null}]"
+    "rdj": {
+      "dayOfWeek":7,
+      "hour":"9:30"
+    },
+    "service1": {
+      "dayOfWeek":1,
+      "hour":"19:30"
+    },
+    "service2": {
+      "dayOfWeek":5,
+      "hour":"19:30"
+    },
+    "events": [
+      {
+        "name":"Ensaio Local",
+        "frequency":"monthly-day",
+        "date":"2024-10-24 19:30:00.000"
+      }
+    ]
   }
 ]
